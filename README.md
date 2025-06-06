@@ -130,10 +130,3 @@ python app.py
 
 Contribuições são bem-vindas!  
 Abra uma issue ou envie um pull request.
-
----
-
-## 📝 Observações
-
-- Salve este conteúdo como `README.md` na raiz do projeto.
-- Substitua o caminho da imagem pela captura de tela real da interface.

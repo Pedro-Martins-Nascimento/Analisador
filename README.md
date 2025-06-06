@@ -31,7 +31,7 @@ A interface permite que os usuários:
 > Substitua abaixo pelo caminho da imagem da interface:
 
 ```markdown
-![Analisador de Moda](./image.png)
+![Analisador de Moda](https://github.com/Pedro-Martins-Nascimento/Analisador/blob/main/image.png)
 ```
 
 ---

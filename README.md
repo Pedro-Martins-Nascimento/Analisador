@@ -28,7 +28,7 @@ A interface permite que os usuários:
 
 ## 🖼️ Captura de Tela
 
-> Substitua abaixo pelo caminho da imagem da interface:
+> Imagem da interface:
 
 
 ![Analisador de Moda](https://github.com/Pedro-Martins-Nascimento/Analisador/blob/main/image.png)
